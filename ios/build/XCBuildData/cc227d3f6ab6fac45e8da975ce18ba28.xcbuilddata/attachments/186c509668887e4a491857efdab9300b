@@ -1,0 +1,5 @@
+ extern const unsigned char GooglePlacesApiVersionString[];
+ extern const double GooglePlacesApiVersionNumber;
+
+ const unsigned char GooglePlacesApiVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:GooglePlacesApi  PROJECT:GooglePlacesApi-1" "\n";
+ const double GooglePlacesApiVersionNumber __attribute__ ((used)) = (double)1.;

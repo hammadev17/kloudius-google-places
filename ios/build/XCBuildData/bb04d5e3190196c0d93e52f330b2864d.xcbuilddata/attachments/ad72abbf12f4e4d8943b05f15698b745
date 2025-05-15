@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/GooglePlacesApi/ios/build/GooglePlacesApi.build/Debug-iphonesimulator/GooglePlacesApi.build/Objects-normal/arm64/GooglePlacesApi-master.dia",
+    "emit-module-dependencies" : "/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/GooglePlacesApi/ios/build/GooglePlacesApi.build/Debug-iphonesimulator/GooglePlacesApi.build/Objects-normal/arm64/GooglePlacesApi-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/GooglePlacesApi/ios/build/GooglePlacesApi.build/Debug-iphonesimulator/GooglePlacesApi.build/Objects-normal/arm64/GooglePlacesApi-master-emit-module.dia",
+    "swift-dependencies" : "/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/GooglePlacesApi/ios/build/GooglePlacesApi.build/Debug-iphonesimulator/GooglePlacesApi.build/Objects-normal/arm64/GooglePlacesApi-master.swiftdeps"
+  },
+  "/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/GooglePlacesApi/ios/build/GooglePlacesApi.build/Debug-iphonesimulator/GooglePlacesApi.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/GooglePlacesApi/ios/build/GooglePlacesApi.build/Debug-iphonesimulator/GooglePlacesApi.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/GooglePlacesApi/ios/build/GooglePlacesApi.build/Debug-iphonesimulator/GooglePlacesApi.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/GooglePlacesApi/ios/build/GooglePlacesApi.build/Debug-iphonesimulator/GooglePlacesApi.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/GooglePlacesApi.build/Debug-iphonesimulator/GooglePlacesApi.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/GooglePlacesApi/ios/build/GooglePlacesApi.build/Debug-iphonesimulator/GooglePlacesApi.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/GooglePlacesApi/ios/build/GooglePlacesApi.build/Debug-iphonesimulator/GooglePlacesApi.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/GooglePlacesApi/ios/build/GooglePlacesApi.build/Debug-iphonesimulator/GooglePlacesApi.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/GooglePlacesApi/ios/build/GooglePlacesApi.build/Debug-iphonesimulator/GooglePlacesApi.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/GooglePlacesApi/ios/GooglePlacesApi/AppDelegate.swift" : {
+    "const-values" : "/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/GooglePlacesApi/ios/build/GooglePlacesApi.build/Debug-iphonesimulator/GooglePlacesApi.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/GooglePlacesApi/ios/build/GooglePlacesApi.build/Debug-iphonesimulator/GooglePlacesApi.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/GooglePlacesApi/ios/build/GooglePlacesApi.build/Debug-iphonesimulator/GooglePlacesApi.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/GooglePlacesApi.build/Debug-iphonesimulator/GooglePlacesApi.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/GooglePlacesApi/ios/build/GooglePlacesApi.build/Debug-iphonesimulator/GooglePlacesApi.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/GooglePlacesApi/ios/build/GooglePlacesApi.build/Debug-iphonesimulator/GooglePlacesApi.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/GooglePlacesApi/ios/build/GooglePlacesApi.build/Debug-iphonesimulator/GooglePlacesApi.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/GooglePlacesApi/ios/build/GooglePlacesApi.build/Debug-iphonesimulator/GooglePlacesApi.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  }
+}
