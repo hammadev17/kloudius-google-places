@@ -1,0 +1,27 @@
+# ninja log v5
+11	5731	1747391679983759860	RNMapsSpecs_autolinked_build/CMakeFiles/react_codegen_RNMapsSpecs.dir/RNMapsSpecs-generated.cpp.o	5bd703e70f6a7a66
+17	9728	1747391683912149797	RNMapsSpecs_autolinked_build/CMakeFiles/react_codegen_RNMapsSpecs.dir/react/renderer/components/RNMapsSpecs/Props.cpp.o	ae0966db662c9118
+0	6	0	/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/android/app/.cxx/Debug/5p5j103i/arm64-v8a/CMakeFiles/cmake.verify_globs	fc563b492110d8fc
+11734	11906	1747391686159934355	/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/android/app/build/intermediates/cxx/Debug/5p5j103i/obj/arm64-v8a/libappmodules.so	27eb4304b48a4c36
+6	6832	1747391681087525161	CMakeFiles/appmodules.dir/OnLoad.cpp.o	cb8463da21fc38f7
+18	4420	1747391678686289249	RNMapsSpecs_autolinked_build/CMakeFiles/react_codegen_RNMapsSpecs.dir/react/renderer/components/RNMapsSpecs/States.cpp.o	7f31d93a4a27d9fb
+17	11004	1747391685247094532	RNMapsSpecs_autolinked_build/CMakeFiles/react_codegen_RNMapsSpecs.dir/react/renderer/components/RNMapsSpecs/EventEmitters.cpp.o	17b6479069271527
+0	3	0	clean	307c0ca84db89a32
+7	46	1747393285421489716	build.ninja	5e617268a6f3b915
+18	7283	1747391681538814147	RNMapsSpecs_autolinked_build/CMakeFiles/react_codegen_RNMapsSpecs.dir/react/renderer/components/RNMapsSpecs/ShadowNodes.cpp.o	e2360bf4005addd6
+18	5713	1747391679981330270	RNMapsSpecs_autolinked_build/CMakeFiles/react_codegen_RNMapsSpecs.dir/react/renderer/components/RNMapsSpecs/RNMapsSpecsJSI-generated.cpp.o	cfb8e1aa5b59befe
+7	11606	1747391685854621164	RNMapsSpecs_autolinked_build/CMakeFiles/react_codegen_RNMapsSpecs.dir/react/renderer/components/RNMapsSpecs/ComponentDescriptors.cpp.o	3deb595f53543cce
+4	11733	1747391685984703900	CMakeFiles/appmodules.dir/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	c9610644e0180f88
+0	12	0	/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/android/app/.cxx/Debug/5p5j103i/arm64-v8a/CMakeFiles/cmake.verify_globs	fc563b492110d8fc
+10	7676	1747393293231146311	RNMapsSpecs_autolinked_build/CMakeFiles/react_codegen_RNMapsSpecs.dir/react/renderer/components/RNMapsSpecs/States.cpp.o	7f31d93a4a27d9fb
+9	12194	1747393297734914637	RNMapsSpecs_autolinked_build/CMakeFiles/react_codegen_RNMapsSpecs.dir/react/renderer/components/RNMapsSpecs/RNMapsSpecsJSI-generated.cpp.o	cfb8e1aa5b59befe
+8	13139	1747393298657062866	RNMapsSpecs_autolinked_build/CMakeFiles/react_codegen_RNMapsSpecs.dir/RNMapsSpecs-generated.cpp.o	5bd703e70f6a7a66
+8	16130	1747393301657418906	CMakeFiles/appmodules.dir/OnLoad.cpp.o	cb8463da21fc38f7
+9	23896	1747393309369144883	RNMapsSpecs_autolinked_build/CMakeFiles/react_codegen_RNMapsSpecs.dir/react/renderer/components/RNMapsSpecs/ShadowNodes.cpp.o	e2360bf4005addd6
+9	28186	1747393313562619425	RNMapsSpecs_autolinked_build/CMakeFiles/react_codegen_RNMapsSpecs.dir/react/renderer/components/RNMapsSpecs/Props.cpp.o	ae0966db662c9118
+9	33259	1747393318762061937	RNMapsSpecs_autolinked_build/CMakeFiles/react_codegen_RNMapsSpecs.dir/react/renderer/components/RNMapsSpecs/EventEmitters.cpp.o	17b6479069271527
+8	33923	1747393319468150680	RNMapsSpecs_autolinked_build/CMakeFiles/react_codegen_RNMapsSpecs.dir/react/renderer/components/RNMapsSpecs/ComponentDescriptors.cpp.o	3deb595f53543cce
+7	33941	1747393319495801528	CMakeFiles/appmodules.dir/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	c9610644e0180f88
+33942	34128	1747393319700583304	/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/android/app/build/intermediates/cxx/Debug/5p5j103i/obj/arm64-v8a/libappmodules.so	27eb4304b48a4c36
+8	32	0	/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/android/app/.cxx/Debug/5p5j103i/arm64-v8a/CMakeFiles/cmake.verify_globs	fc563b492110d8fc
+7	57	0	/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/android/app/.cxx/Debug/5p5j103i/arm64-v8a/CMakeFiles/cmake.verify_globs	fc563b492110d8fc

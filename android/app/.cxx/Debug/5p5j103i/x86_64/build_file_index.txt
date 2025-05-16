@@ -1,0 +1,2 @@
+/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/node_modules/react-native-maps/android/src/main/jni/CMakeLists.txt
+/Users/macbookairm1/Documents/Work/KloudiusGooglePlaces/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt
